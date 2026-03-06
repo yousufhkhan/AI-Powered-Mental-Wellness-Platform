@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧘 CalmMind — Mental Wellness Platform
 
 ## Quick Start
@@ -87,3 +88,38 @@ Edit `src/data/index.js` → `MOOD_DATA` array.
 | 🔜 Phase 3 | Appointment booking, Therapist profiles |
 | 🔜 Phase 4 | Real AI chatbot (API integration) |
 | 🔜 Phase 5 | Backend, database, authentication |
+=======
+# **CalmMind – AI Mental Wellness Platform**
+
+**CalmMind** is a web-based application designed to support mental health through professional therapy services and AI assistance. It allows users to track their mood, book appointments, chat with therapists, and receive **24/7 support from an AI chatbot**.
+
+---
+
+## **Team**
+
+- **Ayesha Nadeem**
+- **Kainat**
+- **Yousuf Hussain Khan**
+
+---
+
+## **Key Features**
+
+- **User registration & login**
+- **Appointment booking system**
+- **Real-time mood tracking**
+- **AI mental health chatbot**
+- **Private journal**
+- **Reward & streak system**
+
+---
+
+## **Tech Stack**
+
+**Frontend:** Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB / MySQL  
+**AI:** OpenAI API  
+**Real-time:** Socket.io  
+**Deployment:** Vercel  
+>>>>>>> 22f8ec9146ac0888da2ca8d9f82f1d5c8c4b968a
